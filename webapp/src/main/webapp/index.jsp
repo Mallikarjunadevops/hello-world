@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Ansible with Docker Devops Learning daily </h1>
+   <h1> Thankyou, Happy to run ansible and docker with jenkins CICD pipeline Devops Learning daily </h1>
 
   
 </form>
